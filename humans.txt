@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Greg Valdez gdvalde@sandia.gov @awesomegdv
 
 # THANKS
 
